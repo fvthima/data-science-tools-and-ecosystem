@@ -46,7 +46,17 @@ This notebook covers the following required exercises for grading:
 Click the link below to view the notebook directly on GitHub:  
 [**View Notebook**](./Data%20Science%20Tools%20and%20Ecosystem.ipynb)
 
+
 ---
+
+## 🖼️ Screenshot
+Below is a screenshot of the first page of the notebook, as required for submission:  
+
+<img width="510" height="650" alt="image" src="https://github.com/user-attachments/assets/a0eedc66-fc93-4b49-a7d6-299c65ffe88f" />
+
+
+---
+
 
 ## 👩‍💻 Author
 **Fathima Haris**
